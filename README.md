@@ -1,5 +1,9 @@
 # python_blockchain_app
 
+![image](https://github.com/user-attachments/assets/abd1b4c6-0921-4240-b473-1564628d974a)
+
+
+
 A simple tutorial for developing a blockchain application from scratch in Python.
 
 ## What is blockchain? How it is implemented? And how it works?
